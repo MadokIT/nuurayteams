@@ -1,0 +1,15 @@
+{
+  "name": "nuurayteams",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nuurayteams — website for link preview, screenshot generation and WhatsApp sharing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "playwright": "^1.49.1"
+  }
+}

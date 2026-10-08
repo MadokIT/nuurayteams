@@ -1,2 +1,18 @@
-# nuurayteams
-Сайт для создания скриншотов страниц и отправки ссылок на WhatsApp
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Playwright browser cache
+playwright/.cache/
